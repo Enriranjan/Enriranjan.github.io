@@ -9,8 +9,8 @@
       rel="stylesheet">
     <title>Reflux HTML CSS Template</title>
     <!--
-Reflux Templatehttps://templatemo.com/tm-531-reflux
---> <!-- Bootstrap core CSS -->
+Reflux Templatehttps://templatemo.com/tm-531-reflux-->
+    <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
@@ -39,6 +39,8 @@ Reflux Templatehttps://templatemo.com/tm-531-reflux
             </nav>
             <div class="social-network">
               <ul class="soial-icons">
+                <li> <br>
+                </li>
                 <li> <br>
                 </li>
                 <li> <br>
@@ -116,9 +118,7 @@ Reflux Templatehttps://templatemo.com/tm-531-reflux
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="right-image"><br>
-                </div>
-                <div class="right-image"><br>
+                <div class="right-image" style="text-align: left;"><br>
                 </div>
                 <div class="right-image"><img src="https://guiatfg.com/wp-content/uploads/2022/05/Rectorat_de_la_Universitat_Oberta_de_Catalunya.jpg"
                     alt="Estudiar en la UOC: motivos y opiniones - GuiaTFG" style="width: 410px; height: 269px;">
